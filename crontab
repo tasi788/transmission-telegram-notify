@@ -1,0 +1,1 @@
+* * * * * /usr/bin/flock -xn /tmp/gdrive.lock /usr/bin/gdrive sync upload /path folder_id > /home/user/log/gdrivesync.log
