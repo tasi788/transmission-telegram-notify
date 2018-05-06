@@ -1,5 +1,6 @@
 #passwd
 config.py
+notify_list
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
